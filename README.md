@@ -232,8 +232,7 @@ Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios
   
 ```
 
-![image](https://user-images.githubusercontent.com/97993778/204240159-83a10680-1d97-40f1-8b17-a563a6ba7e9d.png)
-
+![image](https://user-images.githubusercontent.com/97993778/204240492-7aac2157-cc24-4012-bbff-da3db540cb98.png)
 
 
 
