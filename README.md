@@ -100,6 +100,16 @@ Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios
 ```
 ![image](https://user-images.githubusercontent.com/97993778/204230845-adc440ee-7d2e-4bc3-90d9-7c4f4c2b0f07.png)
 
+### Cerramos MySQL
+
+```mysql
+
+  exit
+  
+```
+![image](https://user-images.githubusercontent.com/97993778/204231203-206746cf-ae39-4eba-b50d-b2d5580f9c98.png)
+
+
 
 
 
