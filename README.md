@@ -9,6 +9,7 @@ Usaremos dos [dominios](https://github.com/KikePereira/Practica-Servidores-Web/b
 ### [·Activar los módulos necesarios para ejecutar php y acceder a mysql](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/PHP%20y%20MySQL.md)
 
 ### [·Instala y configura wordpress](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/wordpress.md)
+[(Base de datos)](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/basededatos.md)
 
 ### [·Activar el módulo “wsgi” y despliega una pequeña aplicación python](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/wsgi.md)
 
