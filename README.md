@@ -22,7 +22,6 @@ Usaremos dos dominios mediante el archivo hosts: centro.intranet(servirá el con
 
 Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
 
-[INSTALACION PAQUETE APACHE](### ·Instalación del servidor web apache.)
 ## INSTALACION SERVIDOR WEB APACHE
 
 ### Actualizamos el indice de paquetes locales
