@@ -43,4 +43,18 @@ Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios
 
 ![image](https://user-images.githubusercontent.com/97993778/204224141-79ab35e8-cd34-4576-947e-6cbd8fa6be79.png)
 
+## Comprobamos la instalacion
+
+
+```bash
+
+  sudo service apache2 status
+  
+```
+
+![image](https://user-images.githubusercontent.com/97993778/204227414-54679f99-e68d-4ffc-97ec-84147f475ddb.png)
+
+
+
+
 
