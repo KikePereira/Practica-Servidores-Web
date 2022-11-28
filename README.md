@@ -17,7 +17,7 @@ Usaremos dos [dominios](https://github.com/KikePereira/Practica-Servidores-Web/b
 
 ### [·Instala y configura awstat.](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/awstats.md)
 
-### ·Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. 
+### [·Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”.](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/segundoServidor.md)
 
 Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
 
