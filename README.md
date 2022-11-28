@@ -10,9 +10,7 @@ Usaremos dos dominios mediante el archivo hosts: centro.intranet(servirá el con
 
 ### [·Instala y configura wordpress](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/wordpress.md)
 
-### ·Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
-
-### ·Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente.
+### [·Activar el módulo “wsgi” y despliega una pequeña aplicación python](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/wsgi.md)
 
 ### [·Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación.](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/autenticacion.md)
 
