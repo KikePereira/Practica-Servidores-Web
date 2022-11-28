@@ -232,6 +232,19 @@ Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios
   
 ```
 
+```bash
+
+<VirtualHost*:80>
+  ServerName centro.intranet
+  ServerAlias www.centro.intranet
+  ServerAdmin webmaster@localhost
+  DocumentRoot /var/www/wordpress
+  ErrorLog ${APACHE_LOG_DIR}/error.log
+  CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+```
+
 ![image](https://user-images.githubusercontent.com/97993778/204240492-7aac2157-cc24-4012-bbff-da3db540cb98.png)
 
 
