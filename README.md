@@ -4,7 +4,7 @@
 
 ### [·Instalación del servidor web apache](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/Instalacion%20Apache.md)
 
-Usaremos dos dominios mediante el archivo hosts: centro.intranet(servirá el contenido mediante wordpress) y departamentos.centro.intranet(Servirá una aplicación en python)
+Usaremos dos [dominios](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/dominios.md) mediante el archivo hosts: centro.intranet(servirá el contenido mediante wordpress) y departamentos.centro.intranet(Servirá una aplicación en python)
 
 ### [·Activar los módulos necesarios para ejecutar php y acceder a mysql](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/PHP%20y%20MySQL.md)
 
