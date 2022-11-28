@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-### ·Instalación del servidor web apache. 
+### ·[Instalación del servidor web apache](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/Instalacion%20Apache.md)
 
 Usaremos dos dominios mediante el archivo hosts: centro.intranet(servirá el contenido mediante wordpress) y departamentos.centro.intranet(Servirá una aplicación en python)
 
