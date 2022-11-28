@@ -8,7 +8,7 @@ Usaremos dos dominios mediante el archivo hosts: centro.intranet(servirá el con
 
 ### [·Activar los módulos necesarios para ejecutar php y acceder a mysql](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/PHP%20y%20MySQL.md)
 
-### ·Instala y configura wordpress
+### [·Instala y configura wordpress](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/wordpress.md)
 
 ### ·Activar el módulo “wsgi” para permitir la ejecución de aplicaciones Python
 
