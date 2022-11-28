@@ -296,6 +296,10 @@ exit
 
 ![image](https://user-images.githubusercontent.com/97993778/204240492-7aac2157-cc24-4012-bbff-da3db540cb98.png)
 
+### Comprobamos que funciona en el explorador
+
+![image](https://user-images.githubusercontent.com/97993778/204246247-4cbf586f-aaa2-4e51-92d9-971e132a7db7.png)
+
 ## Activar el módulo “wsgi” 
 
 ### Instalamos el paquete WSGI
