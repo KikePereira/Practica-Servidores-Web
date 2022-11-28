@@ -16,7 +16,7 @@ Usaremos dos dominios mediante el archivo hosts: centro.intranet(servirá el con
 
 ### [·Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación.](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/autenticacion.md)
 
-### ·Instala y configura awstat.
+### [·Instala y configura awstat.](https://github.com/KikePereira/Practica-Servidores-Web/blob/main/awstats.md)
 
 ### ·Instala un segundo servidor de tu elección (nginx, lighttpd) bajo el dominio “servidor2.centro.intranet”. 
 
