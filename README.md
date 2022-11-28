@@ -30,3 +30,6 @@ Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios
   sudo apt update
   
 ```
+
+![image](https://user-images.githubusercontent.com/97993778/204223325-79071d0a-82d5-4cb5-9da4-65c4eb7e9b92.png)
+
